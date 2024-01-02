@@ -1,0 +1,49 @@
+nav {
+  width: 600px;
+  height: 100px;
+  border-radius: 100px;
+  background-color: #fcf7e3;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.bottone {
+  background-color: #f3df86;
+  width: 81px;
+  height: 36px;
+  border-radius: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#tre {
+  width: 150px;
+  height: 60px;
+}
+
+.bottoneCentrale {
+  background-color: #f3df86;
+  width: 81px;
+  height: 36px;
+  border-radius: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+p {
+  font-size: 10px;
+  color: #542607;
+}
+
+h2 {
+  font-size: 20px;
+  color: #542607;
+}
+
+img {
+  width: 40%;
+  margin-right: 20px;
+}
